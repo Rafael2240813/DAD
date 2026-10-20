@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --build"
+
   },
   "dependencies": {
     "pinia": "^4.0.3",
@@ -29,4 +30,5 @@
   "engines": {
     "node": "^22.18.0 || >=24.12.0"
   }
+  
 }
